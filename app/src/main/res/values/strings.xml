@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">JsonPreferences</string>
+    <string name="reset_label">Reset</string>
+    <string name="read_preferences_file_label">Read Preferences file</string>
+    <string name="write_preferences_file_label">Write Preferences file</string>
+    <string name="is_dark_mode_enabled_label">Dark Mode enabled</string>
+    <string name="username_input_hint">username</string>
+    <string name="username_input_default_value">android</string>
+    <string name="current_level_hint">Current Level</string>
+    <string name="current_level_default_value">15</string>
+    <string name="target_folder_hint">Target folder location</string>
+    <string name="target_folder_default_value">Internal</string>
+    <string-array name="preferences_filename_values">
+        <item>Internal</item>
+        <item>External</item>
+        <item>Cache</item>
+    </string-array>
 </resources>
